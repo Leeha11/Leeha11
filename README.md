@@ -1,5 +1,5 @@
 Hi, This is Leeha, CSE student of 3rd year at IIT Tirupati.
-- 🌱 Currently exploring Data Science, Machine Learning, Deep Learning and Artificial Intelligence.
+- 🌱 Currently treading the vast fields of Data Science and Machine Learning.
 - 💞️ I’m looking to collaborate on any interesting projects.
 
 <!---
